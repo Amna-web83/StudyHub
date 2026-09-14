@@ -8,8 +8,8 @@
 
 ## 📷 Preview & Screenshots
 
-![StudyHub Interface](./img/<img width="1456" height="720" alt="Gemini_Generated_Image_q37y4hq37y4hq37y" src="https://github.com/user-attachments/assets/d31d7cd8-eb3c-441e-a7e7-df10b22cd3d4" />
-)
+<img width="1456" height="720" alt="Gemini_Generated_Image_q37y4hq37y4hq37y" src="https://github.com/user-attachments/assets/d31d7cd8-eb3c-441e-a7e7-df10b22cd3d4" />
+
 
 ---
 
